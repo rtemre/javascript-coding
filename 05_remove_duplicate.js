@@ -32,3 +32,15 @@ function removeDuplicatesFilter(arr) {
 // Example usage:
 const uniqueNum = removeDuplicatesFilter(numbers); // [1, 2, 3, 4, 5]
 console.log(uniqueNum);
+
+function uniqueCharacters(str) {
+  const uniqueChars = [];
+  for (let i = 0; i < str.length; i++) {
+    if (!uniqueChars.includes(str[i])) {
+      uniqueChars.push(str[i]);
+    }
+  }
+  return uniqueChars.join("");
+}
+
+console.log(uniqueCharacters("geeksforgeeks")); // geksfor

@@ -9,16 +9,16 @@ Track your progress by checking off completed questions:
 
 ## 🟢 Basic Level (Fundamentals)
 
-1. [ ] Reverse a string in JavaScript without using built-in `reverse()`.
-2. [ ] Find the factorial of a number using recursion.
-3. [ ] Write a function to check if a number is prime.
-4. [ ] Find the largest number in an array without using `Math.max`.
-5. [ ] Remove duplicates from an array.
-6. [ ] Check if a string is a palindrome.
-7. [ ] Write a function that returns the Fibonacci sequence up to `n` terms.
-8. [ ] Implement a function that counts vowels in a string.
-9. [ ] Sort an array without using `sort()`.
-10. [ ] Swap two variables without using a temporary variable.
+1. [x] Reverse a string in JavaScript without using built-in `reverse()`.
+2. [x] Find the factorial of a number using recursion.
+3. [x] Write a function to check if a number is prime.
+4. [x] Find the largest number in an array without using `Math.max`.
+5. [x] Remove duplicates from an array.
+6. [x] Check if a string is a palindrome.
+7. [x] Write a function that returns the Fibonacci sequence up to `n` terms.
+8. [x] Implement a function that counts vowels in a string.
+9. [x] Sort an array without using `sort()`.
+10. [x] Swap two variables without using a temporary variable.
 
 ---
 

@@ -24,11 +24,11 @@ Track your progress by checking off completed questions:
 
 ## 🟡 Intermediate Level
 
-11. [ ] Write a function to flatten a 2D array into 1D.
-12. [ ] Implement a function that groups array elements by a property.
-13. [ ] Write a function to find the intersection of two arrays.
-14. [ ] Implement binary search.
-15. [ ] Write a function to get the nth largest element in an array.
+11. [x] Write a function to flatten a 2D array into 1D.
+12. [x] Implement a function that groups array elements by a property.
+13. [x] Write a function to find the intersection of two arrays.
+14. [x] Implement binary search.
+15. [x] Write a function to get the nth largest element in an array.
 16. [ ] Implement a debounce function.
 17. [ ] Implement a throttle function.
 18. [ ] Write a function that checks deep equality between two objects.

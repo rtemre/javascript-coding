@@ -29,11 +29,11 @@ Track your progress by checking off completed questions:
 13. [x] Write a function to find the intersection of two arrays.
 14. [x] Implement binary search.
 15. [x] Write a function to get the nth largest element in an array.
-16. [ ] Implement a debounce function.
-17. [ ] Implement a throttle function.
-18. [ ] Write a function that checks deep equality between two objects.
-19. [ ] Implement a function to shuffle an array randomly.
-20. [ ] Write a function to convert a number into Roman numerals.
+16. [x] Implement a debounce function.
+17. [x] Implement a throttle function.
+18. [x] Write a function that checks deep equality between two objects.
+19. [x] Implement a function to shuffle an array randomly.
+20. [x] Write a function to convert a number into Roman numerals.
 
 ---
 

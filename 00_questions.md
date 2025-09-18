@@ -39,11 +39,11 @@ Track your progress by checking off completed questions:
 
 ## 🔵 Advanced Level
 
-21. [ ] Implement your own version of `bind()`.
-22. [ ] Implement your own version of `call()` and `apply()`.
-23. [ ] Write a function to memoize any pure function.
-24. [ ] Implement a curry function.
-25. [ ] Write a function that retries an operation until it succeeds or max retries reached.
+21. [x] Implement your own version of `bind()`.
+22. [x] Implement your own version of `call()` and `apply()`.
+23. [x] Write a function to memoize any pure function.
+24. [x] Implement a curry function.
+25. [x] Write a function that retries an operation until it succeeds or max retries reached.
 26. [ ] Implement a simple publish-subscribe (EventEmitter) system.
 27. [ ] Implement a function that detects circular references in an object.
 28. [ ] Write a polyfill for `Promise.all`.

@@ -44,8 +44,8 @@ Track your progress by checking off completed questions:
 23. [x] Write a function to memoize any pure function.
 24. [x] Implement a curry function.
 25. [x] Write a function that retries an operation until it succeeds or max retries reached.
-26. [ ] Implement a simple publish-subscribe (EventEmitter) system.
-27. [ ] Implement a function that detects circular references in an object.
+26. [x] Implement a simple publish-subscribe (EventEmitter) system.
+27. [x] Implement a function that detects circular references in an object.
 28. [ ] Write a polyfill for `Promise.all`.
 29. [ ] Write a polyfill for `Promise.allSettled`.
 30. [ ] Write a polyfill for `Promise.race`.

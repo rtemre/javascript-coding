@@ -46,14 +46,14 @@ Track your progress by checking off completed questions:
 25. [x] Write a function that retries an operation until it succeeds or max retries reached.
 26. [x] Implement a simple publish-subscribe (EventEmitter) system.
 27. [x] Implement a function that detects circular references in an object.
-28. [ ] Write a polyfill for `Promise.all`.
-29. [ ] Write a polyfill for `Promise.allSettled`.
-30. [ ] Write a polyfill for `Promise.race`.
-31. [ ] Implement async/await behavior using generators.
-32. [ ] Implement a function that schedules tasks with concurrency control.
-33. [ ] Write a function that converts callback-style APIs into Promise-based ones.
-34. [ ] Implement a function to clone a deeply nested object.
-35. [ ] Implement an LRU cache.
+28. [x] Write a polyfill for `Promise.all`.
+29. [x] Write a polyfill for `Promise.allSettled`.
+30. [x] Write a polyfill for `Promise.race`.
+31. [x] Implement async/await behavior using generators.
+32. [x] Implement a function that schedules tasks with concurrency control.
+33. [x] Write a function that converts callback-style APIs into Promise-based ones.
+34. [x] Implement a function to clone a deeply nested object.
+35. [x] Implement an LRU cache.
 
 ---
 
